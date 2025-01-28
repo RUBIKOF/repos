@@ -7,6 +7,7 @@ cloudstream {
     description = "Watch content from Dailymotion"
     authors = listOf("Luna712")
 
+
     /**
      * Status int as one of the following:
      * 0: Down
